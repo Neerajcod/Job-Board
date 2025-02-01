@@ -1,5 +1,6 @@
 # Job-Board
 **How to run this project**
+
 1] Folder Structure
   i) Create a folder in C:/xampp/htdocs/ with name "jobboard".
   ii) Extract the zip folder in jobboard.
